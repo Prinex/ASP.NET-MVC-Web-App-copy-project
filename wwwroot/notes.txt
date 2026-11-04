@@ -1,0 +1,6 @@
+Regarding this directory and its subdirectories:
+*its main purpose is to serve as a directory of assests which includes: css files, js script files (remeber that the
+use of JS is to make websites more dynamic - so it is used for the front-end) - this also includes all JS framework like jquery and bootstrap, images
+*in the CSS folder include CSS files for the front-end
+*in the JS folder include script files related to the front-end stuff
+*lib contains the predefined CSS and JS files, specifically for bootstrap & jQuery used across the website

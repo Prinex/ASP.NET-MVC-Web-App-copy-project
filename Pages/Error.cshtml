@@ -1,0 +1,12 @@
+﻿@page "/Error/{statusCode?}"
+@model MyWebApp.Pages.ErrorModel
+@{
+    ViewData["Title"] = "Error";
+}
+
+<div class="error-container">
+    <h2>@Model.ResponseStatusCode Not Found</h2>
+    <p>@Model.ExceptionMessage</p>
+</div>
+
+
